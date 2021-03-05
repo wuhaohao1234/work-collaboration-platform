@@ -911,3 +911,90 @@
 [2021-03-05T17:05:01.660] [INFO] default - Task server success to run,port:4001.
 [2021-03-05T17:05:18.646] [INFO] default - Task server success to run,port:4001.
 [2021-03-05T17:05:25.748] [INFO] default - Task server success to run,port:4001.
+[2021-03-05T17:21:56.213] [INFO] default - Task server success to run,port:4001.
+[2021-03-05T17:22:29.637] [WARN] default - /auth/login
+[2021-03-05T17:22:30.531] [WARN] default - /task/list
+[2021-03-05T17:22:30.539] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?) order by endTime desc,parames:waitAssign,shelve
+[2021-03-05T17:22:30.544] [WARN] default - /user/list
+[2021-03-05T17:22:30.846] [WARN] default - /task/statistics
+[2021-03-05T17:22:30.884] [WARN] default - /task/list
+[2021-03-05T17:22:30.885] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?,?,?,?) order by endTime desc,parames:backlog,demanding,designing,coding,testing
+[2021-03-05T17:22:55.159] [WARN] default - /task/list
+[2021-03-05T17:22:55.160] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?) order by endTime desc,parames:waitAssign,shelve
+[2021-03-05T17:22:55.163] [WARN] default - /user/list
+[2021-03-05T17:22:55.174] [WARN] default - /task/statistics
+[2021-03-05T17:22:55.245] [WARN] default - /task/list
+[2021-03-05T17:22:55.246] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?,?,?,?) order by endTime desc,parames:backlog,demanding,designing,coding,testing
+[2021-03-05T17:23:03.879] [WARN] default - /task/list
+[2021-03-05T17:23:03.880] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?) order by endTime desc,parames:waitAssign,shelve
+[2021-03-05T17:23:03.890] [WARN] default - /user/list
+[2021-03-05T17:23:03.901] [WARN] default - /task/statistics
+[2021-03-05T17:23:03.967] [WARN] default - /task/list
+[2021-03-05T17:23:03.968] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?,?,?,?) order by endTime desc,parames:backlog,demanding,designing,coding,testing
+[2021-03-05T17:23:25.309] [WARN] default - /task/list
+[2021-03-05T17:23:25.310] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?) order by endTime desc,parames:waitAssign,shelve
+[2021-03-05T17:23:25.318] [WARN] default - /user/list
+[2021-03-05T17:23:25.320] [WARN] default - /task/statistics
+[2021-03-05T17:23:25.393] [WARN] default - /task/list
+[2021-03-05T17:23:25.394] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?,?,?,?) order by endTime desc,parames:backlog,demanding,designing,coding,testing
+[2021-03-05T17:23:39.243] [WARN] default - /auth/login
+[2021-03-05T17:23:39.605] [WARN] default - /task/list
+[2021-03-05T17:23:39.606] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?) order by endTime desc,parames:waitAssign,shelve
+[2021-03-05T17:23:39.916] [WARN] default - /user/list
+[2021-03-05T17:23:39.924] [WARN] default - /task/statistics
+[2021-03-05T17:23:40.257] [WARN] default - /task/list
+[2021-03-05T17:23:40.258] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?,?,?,?) order by endTime desc,parames:backlog,demanding,designing,coding,testing
+[2021-03-05T17:24:44.694] [WARN] default - /task/list
+[2021-03-05T17:24:44.696] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?) order by endTime desc,parames:waitAssign,shelve
+[2021-03-05T17:24:44.704] [WARN] default - /user/list
+[2021-03-05T17:24:44.714] [WARN] default - /task/statistics
+[2021-03-05T17:24:44.813] [WARN] default - /task/list
+[2021-03-05T17:24:44.815] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?,?,?,?) order by endTime desc,parames:backlog,demanding,designing,coding,testing
+[2021-03-05T17:25:30.194] [WARN] default - /task/list
+[2021-03-05T17:25:30.195] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?) order by endTime desc,parames:waitAssign,shelve
+[2021-03-05T17:25:30.205] [WARN] default - /user/list
+[2021-03-05T17:25:30.210] [WARN] default - /task/statistics
+[2021-03-05T17:25:30.310] [WARN] default - /task/list
+[2021-03-05T17:25:30.312] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?,?,?,?) order by endTime desc,parames:backlog,demanding,designing,coding,testing
+[2021-03-05T17:25:42.584] [WARN] default - /task/list
+[2021-03-05T17:25:42.586] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?) order by endTime desc,parames:waitAssign,shelve
+[2021-03-05T17:25:42.592] [WARN] default - /user/list
+[2021-03-05T17:25:42.601] [WARN] default - /task/statistics
+[2021-03-05T17:25:42.680] [WARN] default - /task/list
+[2021-03-05T17:25:42.681] [INFO] default - query task page:select * from worktask where isDel = 0 and  status in (?,?,?,?,?) order by endTime desc,parames:backlog,demanding,designing,coding,testing
+[2021-03-05T17:29:58.017] [WARN] default - /task/list
+[2021-03-05T17:29:58.019] [INFO] default - query task page:select * from worktask where isDel = 0  order by endTime desc limit 0, 10,parames:
+[2021-03-05T17:29:58.035] [WARN] default - /user/list
+[2021-03-05T17:30:01.135] [WARN] default - /demand/list
+[2021-03-05T17:30:01.138] [INFO] default - query demand page:select * from demand where isDel = 0  order by createtime desc limit 0, 10,parames:
+[2021-03-05T17:30:02.020] [WARN] default - /user/list
+[2021-03-05T17:30:03.301] [WARN] default - /user/list
+[2021-03-05T17:30:03.316] [WARN] default - /doc/list
+[2021-03-05T17:30:03.333] [WARN] default - /project/list
+[2021-03-05T17:30:08.120] [WARN] default - /user/list
+[2021-03-05T17:30:11.115] [WARN] default - /task/list
+[2021-03-05T17:30:11.117] [INFO] default - query task page:select * from worktask where isDel = 0  order by endTime desc limit 0, 10,parames:
+[2021-03-05T17:30:11.419] [WARN] default - /user/list
+[2021-03-05T17:30:13.759] [WARN] default - /user/list
+[2021-03-05T17:30:13.778] [WARN] default - /doc/list
+[2021-03-05T17:30:13.785] [WARN] default - /project/list
+[2021-03-05T17:30:17.965] [WARN] default - /doc/info
+[2021-03-05T17:30:18.019] [WARN] default - /doc/read
+[2021-03-05T17:30:26.372] [WARN] default - /user/list
+[2021-03-05T17:30:26.376] [WARN] default - /doc/list
+[2021-03-05T17:30:26.389] [WARN] default - /project/list
+[2021-03-05T17:30:35.891] [WARN] default - /doc/info
+[2021-03-05T17:30:36.227] [WARN] default - /doc/read
+[2021-03-05T17:30:39.509] [WARN] default - /user/list
+[2021-03-05T17:30:39.818] [WARN] default - /doc/list
+[2021-03-05T17:30:39.833] [WARN] default - /project/list
+[2021-03-05T17:31:10.838] [WARN] default - /doc/info
+[2021-03-05T17:31:11.089] [WARN] default - /doc/read
+[2021-03-05T17:31:16.186] [WARN] default - /user/list
+[2021-03-05T17:31:16.494] [WARN] default - /doc/list
+[2021-03-05T17:31:16.504] [WARN] default - /project/list
+[2021-03-05T17:31:34.154] [WARN] default - /doc/info
+[2021-03-05T17:31:34.405] [WARN] default - /doc/read
+[2021-03-05T17:31:40.138] [WARN] default - /user/list
+[2021-03-05T17:31:40.446] [WARN] default - /doc/list
+[2021-03-05T17:31:40.460] [WARN] default - /project/list
